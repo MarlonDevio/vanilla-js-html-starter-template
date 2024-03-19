@@ -13,27 +13,29 @@ This is a JavaScript starter template that includes a variety of tools and libra
 **Style** **Resets**: Global style resets are included in src/app/css/global.css to ensure consistency across different browsers.
 
 **HTML5** **Boilerplate**: The index.html file is based on the HTML5 Boilerplate, providing a robust starting point for your project.
-GSAP: The GreenSock Animation Platform (GSAP) is included via CDN in the index.html file for high-performance animations.
-Getting Started
-Clone this repository.
-Install the dependencies by running npm install.
-Start the development server by running npm run dev.
-Building for Production
-To create an optimized build of your app, use the build script in the package.json file:
 
-This will create a dist directory with your optimized app.
+**GSAP**: The GreenSock Animation Platform (GSAP) is included via CDN in the index.html file for high-performance animations.
 
-Previewing the Production Build
-To preview the production build, use the preview script in the package.json file:
+## Getting Started
 
-1
-This will start a local server for previewing your production-ready app.
+- Clone this repository.
+- Install the dependencies by running npm install.
+- Start the development server by running npm run dev.
+- Building for Production
+  To create an optimized build of your app, use the build script in the package.json file:
+  This will create a dist directory with your optimized app.
 
-Linting
-This project uses ESLint for linting. You can check for linting errors by running npm run lint.
+- Previewing the Production Build
+  To preview the production build, use the preview script in the package.json file:
+  This will start a local server for previewing your production-ready app.
 
-Contributing
+- Linting
+  This project uses ESLint for linting. You can check for linting errors by running npm run lint.
+
+## Contributing
+
 Contributions are welcome. Please open an issue or submit a pull request.
 
-License
+## License
+
 This project is open source and available under the MIT License.
